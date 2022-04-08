@@ -1,0 +1,10 @@
+footer{
+    color: rgb(0, 0, 0);
+    padding: 8px;
+    justify-items: center;
+    bottom: 0;
+    position: absolute;
+}
+a{
+    color: black;
+}
